@@ -1,9 +1,12 @@
-name: deploy static content to Github Pages
+name: deploy to gh pages
 
 on:
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches:
+      - main
+    paths:
+      - pages/**
 
 permissions:
   contents: read
@@ -37,6 +40,6 @@ jobs:
           path: "pages"
 
       # https://github.com/marketplace/actions/deploy-github-pages-site
-      - name: deploy to GitHub Pages
+      - name: deploy to gh pages
         id: deployment
         uses: actions/deploy-pages@v2.0.5
