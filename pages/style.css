@@ -1,0 +1,33 @@
+/* global */
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inconsolata", monospace;
+  background-color: #fff;
+  color: #800080;
+  text-align: center;
+}
+
+.section {
+  padding-top: 30vh;
+}
+
+.section p {
+  font-size: 1.2rem;
+  padding-bottom: 10px;
+  margin-bottom: 3rem;
+}
+
+.section a {
+  font-size: 1.5rem;
+  color: #7a7c80;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.section a:hover {
+  color: #ccc;
+  cursor: pointer;
+}
