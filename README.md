@@ -12,9 +12,9 @@
 
 [![pre-commit][pre-commit-shield]][pre-commit-url]
 
-# jazzlyn.dev
+# jazzlyn.github.io
 
-Github pages for jazzlyn.dev
+jazzlyns fancy github pages.
 
 <details>
   <summary style="font-size:1.2em;">Table of Contents</summary>
