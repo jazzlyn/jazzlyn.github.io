@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   deploy:
-    uses: techtales-io/github-workflows/.github/workflows/deploy-gh-pages.yaml@acc20b59e4f68b7c4a199ec0054f533d20beea8f # v0.2.0
+    uses: techtales-io/github-workflows/.github/workflows/deploy-gh-pages.yaml@705dc63c1ce7690720f6c8ab24cec2177ad75db8 # v0.2.1
     permissions:
       contents: read
       pages: write
