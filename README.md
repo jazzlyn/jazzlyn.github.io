@@ -11,6 +11,7 @@
 -->
 
 [![pre-commit][pre-commit-shield]][pre-commit-url]
+[![taskfile][taskfile-shield]][taskfile-url]
 
 # jazzlyn.github.io
 
@@ -58,3 +59,5 @@ pre-commit install
 
 [pre-commit-shield]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&style=for-the-badge
 [pre-commit-url]: https://github.com/pre-commit/pre-commit
+[taskfile-url]: https://taskfile.dev/
+[taskfile-shield]: https://img.shields.io/badge/Taskfile-Enabled-brightgreen?logo=task
