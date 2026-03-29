@@ -34,7 +34,7 @@ jazzlyns fancy github pages.
 
 ### Prerequisites
 
-- [pre-commit][pre-commit]
+- [pre-commit][pre-commit-url]
 
 ### Initialize repository
 
@@ -52,8 +52,6 @@ pre-commit install
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Links -->
-
-[pre-commit]: https://pre-commit.com/
 
 <!-- Badges -->
 
