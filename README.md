@@ -17,6 +17,9 @@
 
 jazzlyns fancy github pages.
 
+<details>
+  <summary style="font-size:1.2em;">Table of Contents</summary>
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -26,6 +29,7 @@ jazzlyns fancy github pages.
 - [Configuration](#configuration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</details>
 
 ## Getting Started
 
